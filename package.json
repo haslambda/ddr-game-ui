@@ -1,0 +1,25 @@
+{
+  "name": "ddr-game-ui",
+  "version": "0.0.0",
+  "description": "UI for DDR game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haslambda/ddr-game-ui.git"
+  },
+  "keywords": [
+    "javascript",
+    "ddr",
+    "hana-academy-seoul",
+    "scienceday"
+  ],
+  "author": "sohnryang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haslambda/ddr-game-ui/issues"
+  },
+  "homepage": "https://github.com/haslambda/ddr-game-ui#readme"
+}
