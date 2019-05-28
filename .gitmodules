@@ -1,0 +1,3 @@
+[submodule "beat-extraction"]
+	path = beat-extraction
+	url = git@github.com:haslambda/beat-extraction.git
