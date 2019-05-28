@@ -22,8 +22,5 @@
     "url": "https://github.com/haslambda/ddr-game-ui/issues"
   },
   "homepage": "https://github.com/haslambda/ddr-game-ui#readme",
-  "devDependencies": {
-    "gh-pages": "^2.0.1",
-    "parcel": "^1.12.3"
-  }
+  "devDependencies": {}
 }
