@@ -22,5 +22,8 @@
     "url": "https://github.com/haslambda/ddr-game-ui/issues"
   },
   "homepage": "https://github.com/haslambda/ddr-game-ui#readme",
-  "devDependencies": {}
+  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
